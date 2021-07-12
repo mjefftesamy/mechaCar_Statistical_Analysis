@@ -26,12 +26,16 @@ Using the lm() function, a multiple linear regression is performed including all
 
 
 # Multiple Linear Regression Model Summary
+![Dev1_lm](https://user-images.githubusercontent.com/63277310/125365482-577ba600-e342-11eb-8efa-e5a43824782b.png)
 
 # Summary Statistics on Suspension Coils
+![Dev1 _lm_summary](https://user-images.githubusercontent.com/63277310/125365511-65c9c200-e342-11eb-974b-a2cde0893c5a.png)
 
 # PSI Statistical Total Summary
+![Dev2_total_summary](https://user-images.githubusercontent.com/63277310/125365754-d375ee00-e342-11eb-86cb-ffd9f3a6658e.png)
 
 # PSI Statistical Lot Summary
+![Dev3_Lot_Summary](https://user-images.githubusercontent.com/63277310/125365786-e4266400-e342-11eb-9b9c-39d75cc5759a.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 Based on that requirementment criteria, Manufacturing Lot1 with a variance of 0.98 PSI and Lot2 with a variance of 7.47 PSI meet the design specification individually.
@@ -41,10 +45,13 @@ However, Manufacturing Lot3 does not meet this requirement with a variance of 17
 Shown by the total summary and lot summary images above, both Manufacturing Lot1 and Lot2 have mean and median values that do not vary substantially from the population mean of 1500 pounds. With a p-value for Manufacturing Lot1 = 1 and a p-value for Lot2 = 0.61, the null hypothesis fails to be rejected for both Lot1 and Lot2, supporting the means for both lots are statistically similar to the population mean. But Manufacturing Lot3 has as p-value of 0.042 which indicates that there is statistical evidence which supports that the PSI for this manufacturing lot is slightly different from the population mean of 1500 pounds per square inch.
 
 # T-Test Comparing All Manufacturing Lots Against Mean PSI
+![Dev4_ttest_all](https://user-images.githubusercontent.com/63277310/125365855-06b87d00-e343-11eb-88fa-f5969d6a8f2b.png)
 
 # T-Test Comparing Manufacturing Lot#1 Against Mean PSI
+![Dev5_ttest_lot2](https://user-images.githubusercontent.com/63277310/125365873-0e782180-e343-11eb-8b3d-e2212902ff44.png)
 
 # T-Test Comparing Manufacturing Lot#2 Against Mean PSI
+![Dev6_ttest_lot3](https://user-images.githubusercontent.com/63277310/125365896-159f2f80-e343-11eb-868a-79ada3e280f3.png)
 
 # T-Test Comparing Manufacturing Lot#3 Against Mean PSI
 
