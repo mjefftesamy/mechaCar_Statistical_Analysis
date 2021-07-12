@@ -1,6 +1,6 @@
 # Purpose of Analysis
 
-Using data analytics and r programming, reviewed MechaCar production data to provide insights to the manufacturing team. The following data analytics were performed with analysis results detailed for each topic:
+using data analytics and r programming, reviewed MechaCar production data to provide insights to the manufacturing team. The following data analytics were performed with analysis results detailed for the following topics:
 
 -- Multiple linear regression analysis to identify which vairables in the dataset predict the MPG (miles per gallon) of MechaCar prototypes.
 
