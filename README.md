@@ -48,13 +48,13 @@ Shown by the total summary and lot summary images above, both Manufacturing Lot1
 ![Dev4_ttest_all](https://user-images.githubusercontent.com/63277310/125365855-06b87d00-e343-11eb-88fa-f5969d6a8f2b.png)
 
 # T-Test Comparing Manufacturing Lot#1 Against Mean PSI
-![Dev5_ttest_lot2](https://user-images.githubusercontent.com/63277310/125365873-0e782180-e343-11eb-8b3d-e2212902ff44.png)
+![Dev3_ttest_lot1](https://user-images.githubusercontent.com/63277310/125366720-aa565d00-e344-11eb-8040-457f87338cad.png)
 
 # T-Test Comparing Manufacturing Lot#2 Against Mean PSI
-![Dev6_ttest_lot3](https://user-images.githubusercontent.com/63277310/125365896-159f2f80-e343-11eb-868a-79ada3e280f3.png)
+![Dev5_ttest_lot2](https://user-images.githubusercontent.com/63277310/125366755-c0641d80-e344-11eb-9d91-1ebc45c90706.png)
 
 # T-Test Comparing Manufacturing Lot#3 Against Mean PSI
-
+![Dev6_ttest_lot3](https://user-images.githubusercontent.com/63277310/125366784-ceb23980-e344-11eb-8159-660d16a5104b.png)
 
 
 # Study Design: MechaCar vs. Competition
